@@ -11,10 +11,14 @@
             "id": "1504cb93c4673ba2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "задания/oneliners.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "oneliners"
             }
           }
         ]
@@ -186,6 +190,9 @@
   },
   "active": "1504cb93c4673ba2",
   "lastOpenFiles": [
+    "лекции/Материал по pipe.md",
+    "лекции/Лекция 2.md",
+    "лекции",
     "Pasted image 20261023150033.png",
     "11 Голдберг.md",
     "Доп. материал по pipe.md",
